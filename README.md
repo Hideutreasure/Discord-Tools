@@ -4,6 +4,8 @@ Welcome to the ultimate **Discord Tools** — a fast, modular, and powerful Disc
 
 Discord Tools combines multiple utilities into one application with a simple numbered command-line interface. Launch the program, choose a function by its number, and start working with the selected module.
 
+[![Installation](https://img.shields.io/badge/📖%20Installation%20guide-blue)](#install-guide)
+
 ---
 
 ## 🌟 Key Features
@@ -65,6 +67,7 @@ Example:
 
 ---
 
+<a name="install-guide"></a>
 ## 🚀 Automated Installation & Setup (PowerShell)
 
 1. Open PowerShell as Administrator:
